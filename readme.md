@@ -8,6 +8,7 @@ GroupStudyIncentives is a decentralized smart contract built on the Ethereum blo
 
 ## Contract Address
 0xF11d88B81C14e8518Bd673988a3958CfEC68BAcA
+0xF11d88B81C14e8518Bd673988a3958CfEC68BAcA
 
 ## Project Vision
 The vision of GroupStudyIncentives is to create a decentralized platform that encourages collaborative learning and rewards knowledge-sharing. By integrating blockchain technology, the project ensures transparency, security, and trust among participants.
